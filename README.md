@@ -3,7 +3,7 @@
 A simple Swift property wrapper for storing data in the keychain. It supports:
 
 - All types that are `Codable`.
-- iOS 8+, watchOS 2+, macOS 10.10+, and tvOS 9+.
+- iOS 9+, watchOS 2+, macOS 10.10+, and tvOS 9+.
 
 ### 👶 Usage
 
